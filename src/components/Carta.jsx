@@ -18,7 +18,7 @@ function Carta() {
           <article className=" rounded-md h-40 w-40 bg-white/60 mt-[-80px] lg:mt-[-100px]">
             <img src={Des} alt="" className="rounded-md w-full" />
           </article>
-          <h1 className="font-bold text-3xl mt-4 mb-2">Luis Daniel</h1>
+          <h1 className="font-bold text-3xl mt-4 mb-2">Luis Daniel 1</h1>
           <p className="font-semibold text-md mb-6 ">Desarrollador Web</p>
         </div>
 
