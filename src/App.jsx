@@ -27,7 +27,7 @@ function App() {
       <div className="fade-wrapper bg-white/80 w-full max-w-[800px] min-h-[855px] rounded-md m-auto lg:m-0">
         <Routes location={location} key={location.pathname}>
           <Route
-            path="/"
+            path="/Portafolio"
             element={
               <motion.div
                 initial="hidden"

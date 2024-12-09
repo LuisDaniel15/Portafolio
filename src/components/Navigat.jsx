@@ -21,10 +21,10 @@ function Navigat() {
       </div>
 
       <nav
-        className={`${ init ? "block" : "hidden"}
+        className={`${init ? "block" : "hidden"}
         flex-col justify-evenly items-center h-[100%] lg:flex md:bg-transparent`}
       >
-        <Link to="/">
+        <Link to="/Portafolio/">
           <li className="p-2 flex flex-col items-center transition-all duration-150  text-[14px] font-semibold hover:bg-white/50 rounded-md hover:scale-105">
             <IoPersonCircle className="" size={30} />
             About{" "}
